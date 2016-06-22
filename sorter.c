@@ -3,6 +3,8 @@
 #include <string.h>
 #include <stdint.h>
 
+// comment added
+
 char input[BUFSIZ];
 
 int comparator(const void *a, const void *b) {
